@@ -2,6 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import { BsFillTrophyFill } from "react-icons/bs";
 import { BsMusicPlayerFill } from "react-icons/bs";
+import "@fortawesome/fontawesome-free/js/all.js";
 
 function Side() {
   return (

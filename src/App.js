@@ -1,6 +1,6 @@
-import React from 'react';
-import {BrowserRouter as Router, Route} from "react-router-dom";
-import '@fortawesome/fontawesome-free/js/all.js';
+import React from "react";
+import { BrowserRouter as Router, Route } from "react-router-dom";
+import "@fortawesome/fontawesome-free/js/all.js";
 import Main from "./components/pages/Main";
 import Mypages from "./components/pages/Mypages";
 import Today from "./components/pages/Today";
@@ -10,6 +10,7 @@ import New from "./components/pages/New";
 import Month from "./components/pages/Month";
 import MyMusic from "./components/pages/MyMusic";
 import PlayList from "./components/pages/PlayList";
+import "@fortawesome/fontawesome-free/js/all.js";
 
 function App() {
   return (
